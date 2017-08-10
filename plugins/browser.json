@@ -1,0 +1,31 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.prabodh.photosharer"
+        },
+        "cordova-plugin-crosswalk-webview": {
+            "PACKAGE_NAME": "com.prabodh.photosharer"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.prabodh.photosharer"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.prabodh.photosharer"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.prabodh.photosharer"
+        },
+        "es6-promise-plugin": {
+            "PACKAGE_NAME": "com.prabodh.photosharer"
+        }
+    }
+}
