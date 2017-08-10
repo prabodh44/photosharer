@@ -12,10 +12,16 @@
         },
         "cordova-plugin-camera": {
             "PACKAGE_NAME": "com.prabodh.photosharer"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.prabodh.photosharer"
         }
     },
     "dependent_plugins": {
         "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.prabodh.photosharer"
+        },
+        "es6-promise-plugin": {
             "PACKAGE_NAME": "com.prabodh.photosharer"
         }
     }
